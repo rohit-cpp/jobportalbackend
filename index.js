@@ -23,6 +23,7 @@ app.use(cookieParser());
 const allowedOrigins = [
   "http://localhost:5173",
   "https://job-portal-frontend-ochre-beta.vercel.app",
+  "https://job-portal-frontend-8xakhe34x-rohit-gawandes-projects.vercel.app",
 ];
 
 const corsOptions = {
